@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Bani Nidji 👋
 
-<!--
-**baninidji13/baninidji13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 Informatics Engineering Student from Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming, cybersecurity, and technology. Currently, I'm expanding my knowledge in Python, Linux, networking, and secure software development while building projects to improve my skills.
+
+---
+
+## 🚀 Currently Learning
+
+- Python
+- Linux
+- Git & GitHub
+- Web Development
+- Cybersecurity Fundamentals
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Linux
+
+---
+
+## 🎯 Goals
+
+- Build useful software projects
+- Improve cybersecurity skills
+- Learn penetration testing ethically
+- Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/baninidji13
+
+---
+
+⭐ Thanks for visiting my profile!
